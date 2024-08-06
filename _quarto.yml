@@ -11,6 +11,8 @@ website:
         href: https://github.com/Angelin-ak
       - icon: twitter
         href: https://twitter.com
+      - icon: instagram
+        href: https://www.instagram.com/_mr_angelin_/
 format:
   html:
     theme: Vapor
