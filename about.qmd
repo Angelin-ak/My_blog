@@ -18,8 +18,7 @@ about:
       href: https://github.com/Angelin-ak
     - icon: instagram
       text: instagram
-      href: https://www.instagram.com/_mr_angelin_?utm_source=qr&igsh=YXFuNnp2MHRkMnEx
-
+      href: https://www.instagram.com/_mr_angelin_
 ---
 
 my mind thoughts
