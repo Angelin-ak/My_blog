@@ -1,0 +1,12 @@
+---
+title: "Angels walk"
+author: "Angelin"
+date: "2024-08-06"
+categories: [views]
+---
+
+In my foot steps thier will always by actions in it... 
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
