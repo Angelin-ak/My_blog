@@ -15,7 +15,7 @@ website:
         href: https://www.instagram.com/_mr_angelin_/
 format:
   html:
-    theme: Sketchy
+    theme: sketchy
     css: styles.css
 
 
