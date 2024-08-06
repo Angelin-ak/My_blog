@@ -12,10 +12,10 @@ website:
       - icon: twitter
         href: https://twitter.com
       - icon: instagram
-        href: https://www.instagram.com/_mr_angelin_/
+        href: https://www.instagram.com/_mr_angelin_?utm_source=qr&igsh=YXFuNnp2MHRkMnEx
 format:
   html:
-    theme: sketchy
+    theme: Sketchy
     css: styles.css
 
 

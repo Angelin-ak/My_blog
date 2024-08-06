@@ -12,10 +12,13 @@ about:
       href: https://www.linkedin.com/in/angelin-mathew-89379b290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     - icon: instagram
       text: instagram
-      href: https://www.instagram.com/_mr_angelin_/
+      href: https://www.instagram.com/_mr_angelin_
     - icon: github
       text: Github
       href: https://github.com/Angelin-ak
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/_mr_angelin_?utm_source=qr&igsh=YXFuNnp2MHRkMnEx
 
 ---
 
